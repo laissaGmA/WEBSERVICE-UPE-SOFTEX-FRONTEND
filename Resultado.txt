@@ -1,0 +1,6 @@
+EXPLICAÇÃO DO PROJETO (XMLS)
+
+O Request é o pedido que o cliente realiza ao nosso servidor, nesse caso, a consultaCliente é ativada logo quando é acessada no servidor. 
+Nessa sessão de Request o cliente deve passar todos os dados necessários para a troca de informações acontecer de maneira correta.
+
+O Response é a parte em que a reposta ao Request (requisição do cliente) é repondida, ou seja ao acessao o consultaCliente o usuário recebe de volta os dados informados nessa sessão do servidos. 
